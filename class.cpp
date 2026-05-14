@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 Date:: Date(){
-    day=1;
+    day=2;
     month=1;
     year=2000;
 }
