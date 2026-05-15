@@ -1,0 +1,4 @@
+This file contains the complete record of updates, modifications, and improvements made during the development of the project.
+Each entry represents the changes added to the repository, including new features, fixes, and commits.
+
+The updated `Date` class program was enhanced by adding new functionalities such as leap year checking, date validation, date comparison, next day calculation, and long format display. A static variable was also added to count the total number of objects created. The code was separated into different files for better organization and readability. These changes improved the working of the program and demonstrated important OOP concepts like encapsulation, constructors, member functions, and static members.
