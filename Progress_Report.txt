@@ -8,3 +8,6 @@ The updated `Date` class program was enhanced by adding new functionalities such
  The code was separated into different files for better organization and readability. 
 These changes improved the working of the program and demonstrated important OOP concepts like encapsulation, constructors, member functions, and static members.
 
+Enhanced the Date class program by adding new functionalities such as previous day calculation, days-in-month checking, date swapping, and date copying.
+ Updated the class.h, class.cpp, and source.cpp files to implement and test the new features properly. 
+Also improved the overall program structure and functionality using object-oriented programming concepts.
