@@ -11,3 +11,8 @@ These changes improved the working of the program and demonstrated important OOP
 Enhanced the Date class program by adding new functionalities such as previous day calculation, days-in-month checking, date swapping, and date copying.
  Updated the class.h, class.cpp, and source.cpp files to implement and test the new features properly. 
 Also improved the overall program structure and functionality using object-oriented programming concepts.
+
+I added operator overloading to  `Date` class, including comparison operators (`==`, `!=`, `<`, `>`), increment/decrement operators (both prefix and postfix `++` and `--`), assignment operator (`=`), and stream output operator (`<<`).
+ I also improved date manipulation so operators directly update or compare date objects in a more natural C++ style. 
+ These changes make my  class more powerful, reusable, and aligned with professional OOP practices.
+
